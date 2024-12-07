@@ -15,7 +15,7 @@ A simple, interactive JavaScript-based quiz game where users can test their know
 - **JavaScript**: To handle game logic, including generating questions, timing, and calculating the score.
 
 ## Visit Page
-You can try the live Page. [Quiz Game Project](https://quotes-application-247d5b.netlify.app)](https://quizy-game-2d2e1d.netlify.app)
+You can try the live Page. [Quiz Game Project](https://quizy-game-2d2e1d.netlify.app)
 
 ## Demo
 ![Screenshot 2024-12-07 230949](https://github.com/user-attachments/assets/57681010-7010-423e-b555-54fe8b29e9ee)
